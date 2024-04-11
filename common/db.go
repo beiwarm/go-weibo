@@ -15,7 +15,7 @@ func InitDB() error {
 	const (
 		user     = "root"
 		password = "a@2admin"
-		host     = "120.48.70.208"
+		host     = "localhost"
 		port     = "3306"
 		database = "weibo"
 	)
